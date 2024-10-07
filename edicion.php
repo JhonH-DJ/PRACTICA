@@ -12,7 +12,7 @@
             <div class="card border-0">
                 <div class="card-hearder bg-white border-0">
                     <h1 class="h1">
-                    <i class="bi bi-airplane"></i>Edicion
+                    <i class="bi bi-airplane"></i>EDICION DE LIBROS
                     </h1>
                 </div>
                 <div class="card-body">
